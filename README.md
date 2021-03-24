@@ -5,4 +5,4 @@ C++ dnn opencv yolov5, speed 80fps
 RTX2060
 Cuda10.2_opencv
 ```
-![](./result.png)
+![](./test.png)
